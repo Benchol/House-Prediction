@@ -1,0 +1,121 @@
+<form [formGroup]="predictForm" (ngSubmit)="onPredict()">
+    <div class="container-form">
+        <div class="container-content">
+            <div class="img">
+                <img src="../assets/house.jpg" alt="">
+            </div>
+            <div class="content">
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Bedroom</mat-label>
+                        <input matInput placeholder="Placeholder" type="number" formControlName="bedroom">
+                        <mat-icon matSuffix>bed</mat-icon>
+                        <mat-hint>[ 1 - 20 ]</mat-hint>
+                    </mat-form-field>
+                </div>
+
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Bathroom</mat-label>
+                        <input matInput placeholder="Placeholder" type="number" formControlName="bathroom">
+                        <mat-icon matSuffix>waves</mat-icon>
+                        <mat-hint>[ 1 - 20 ]</mat-hint>
+                    </mat-form-field>
+                </div>
+
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Erf Size</mat-label>
+                        <input matInput placeholder="Placeholder" type="number" formControlName="erf_size">
+                        <mat-icon matSuffix>border_inner</mat-icon>
+                        <mat-hint>en m²</mat-hint>
+                    </mat-form-field>
+                </div>
+
+
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Floor Size</mat-label>
+                        <input matInput placeholder="Placeholder" type="number" formControlName="floor_size">
+                        <mat-icon matSuffix>border_clear</mat-icon>
+                        <mat-hint>en m²</mat-hint>
+                    </mat-form-field>
+                </div>
+
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Garage</mat-label>
+                        <input matInput placeholder="Placeholder" type="number" formControlName="garage">
+                        <mat-icon matSuffix>drive_eta</mat-icon>
+                        <mat-hint>[ 1 - 10 ]</mat-hint>
+                    </mat-form-field>
+                </div>
+
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Rates and taxes</mat-label>
+                        <input matInput placeholder="Placeholder" type="number" formControlName="taxes">
+                        <mat-icon matSuffix>payment</mat-icon>
+                        <mat-hint>en R</mat-hint>
+                    </mat-form-field>
+                </div>
+
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Type d' appartement</mat-label>
+                        <mat-select name="select" formControlName="type_property">
+                            <mat-option *ngFor="let select of selectLabelType" [value]="select.value">
+                                {{select.valueView}}
+                            </mat-option>
+                        </mat-select>
+                        <mat-icon matSuffix>home</mat-icon>
+                        <mat-hint>Type</mat-hint>
+                    </mat-form-field>
+                </div>
+
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Pool</mat-label>
+                        <mat-select name="select" formControlName="pool">
+                            <mat-option *ngFor="let select of choiceBool" [value]="select.value">
+                                {{select.valueView}}
+                            </mat-option>
+                        </mat-select>
+                        <mat-icon matSuffix>pool</mat-icon>
+                        <mat-hint>Pool</mat-hint>
+                    </mat-form-field>
+                </div>
+                <div class="formGroup">
+                    <mat-form-field appearance="standard">
+                        <mat-label>Pets allowed</mat-label>
+                        <mat-select name="select" formControlName="pets">
+                            <mat-option *ngFor="let select of choiceBool" [value]="select.value">
+                                {{select.valueView}}
+                            </mat-option>
+                        </mat-select>
+                        <mat-icon matSuffix>pets</mat-icon>
+                        <mat-hint>Pets</mat-hint>
+                    </mat-form-field>
+                </div>
+                <div class="formGroup none"></div>
+                <div class="formGroup none"></div>
+                <div class="formGroup btn-predict">
+                    <button class="btn" type="submit">Predict</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>
+
+
+<div class="container-result" [ngClass]="{'d-none': !isOpen, 'display': isOpen, 'op0': !isOpen, 'op1': isOpen}">
+    <div class="container">
+        <div class="back" (click)="onPredict()">
+            <mat-icon>arrow_back</mat-icon>
+        </div>
+        <div class="content">
+            House prédiction : {{ result }} R
+        </div>
+    </div>
+</div>
