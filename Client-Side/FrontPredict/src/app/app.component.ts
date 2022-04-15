@@ -27,8 +27,9 @@ export class AppComponent implements OnInit {
   selectLabel: any[];
   selectLabelType: SelectType[];
   choiceBool: any[];
-  result!: number;
+  result!: string;
   isOpen = false;
+  loading = false;
 
 
   constructor(private formBuilder: FormBuilder, private resultService: PredictServiceService) {
@@ -168,7 +169,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit() {
     console.log('cca');
-    this.result = 455;
+    this.result = '455';
     this.onGetResultPrediction();
 
   }
@@ -232,16 +233,16 @@ export class AppComponent implements OnInit {
 
     console.log("House predicting... ", house_to_predict);
 
-    this.resultService.predictHousePrice(house_to_predict);
+    this.resultService.predictHousePrice(house_to_predict).then(price => {
+      this.result = price;
+      console.log('Price predict = ', this.result);
+    })
+      .catch(err => console.log('Errrorooror ::', err));
     console.log('Get indray zao');
 
-    this.resultService.getResultPrediction().then(
-      (result: number) => {
-        console.log('Result : ', result);
-        this.result = result;
-      }
-    )
-
+    window.setTimeout(() => {
+      this.loading = !this.loading;
+    }, 3000);
   }
 
   closeResult() {
@@ -249,7 +250,7 @@ export class AppComponent implements OnInit {
   }
 
   onGetResultPrediction() {
-    this.result = 0.61;
+    this.result = '0.61';
   }
 
 }

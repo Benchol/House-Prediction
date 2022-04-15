@@ -1,0 +1,89 @@
+price,bedrooms,bathrooms,Type of Property,Rates and Taxes,Pool,parking space,Erf Size,Floor Size,Levies,Pets Allowed
+R 700 000,3,1,House,R300,0,,,,,
+R 1 650 000,9,6,House,R800,0,2,647m²,,,
+R 395 000,1,1,Townhouse,R200,0,,4685m²,34m²,R1500,
+R 820 000,2,1,House,R770,0,,248m²,,,1.0
+R 1 199 000,2,2,Apartment/Flat,R436,0,2,,105m²,R2490,
+R 8 000 000,,,CommercialProperty,,0,,400m²,400m²,,
+R 1 100 000,3,1,House,,0,2,592m²,,,
+R 1 499 000,3,2,House,,1,4,,,,1.0
+R 2 499 000,4,3,House,R915,0,4,991m²,380m²,,1.0
+R 1 271 290,,,CommercialProperty,,0,,496m²,496m²,,
+R 13 500 000,,,CommercialProperty,,0,,3600m²,,,
+R 949 999,4,3,Townhouse,R680,0,2,993m²,131m²,R2280,0.0
+R 1 799 999,3,2,Apartment/Flat,,1,2,,96m²,R3956,0.0
+R 770 000,2,2,Apartment/Flat,,0,2,83m²,,,
+R 530 000,2,1.5,Apartment/Flat,R280,0,2,86m²,86m²,R800,
+R 3 200 000,2,2,Apartment/Flat,,1,2,155m²,155m²,,1.0
+R 4 899 000,3,2,House,,1,5,1145m²,350m²,,1.0
+R 1 439 000 - R 1 458 000,,,,,0,,,,,
+R 765 000,2,1,Apartment/Flat,R250,0,1,,,R1200,
+R 5 700 000,,,CommercialProperty,,0,,992m²,992m²,,
+R 3 000 000,,,VacantLand/Plot,,0,,,,,
+R 1 990 000,3,2,House,,1,4,,,,
+R 2 450 000,3,2,Apartment/Flat,R1668,0,2,,171m²,R3714,
+R 2 400 000,3,2,Townhouse,R1579,0,2,,145m²,R2400,0.0
+R 2 000 000,,,IndustrialProperty,R3500,0,,,385m²,R2500,
+R 7 600 000,,,CommercialProperty,,0,,,,,
+R 550 000,3,1,House,R245,0,,360m²,,,1.0
+R 1 350 000,4,2,House,,1,,1388m²,,,
+R 1 850 000,,,VacantLand/Plot,,0,,,,,
+R 2 499 000,4,3,House,R751,1,5,981m²,,,
+R 450 000,2,1,House,,0,,425m²,,,
+R 2 550 000,5,3,House,,1,10,1011m²,,,
+R 799 000,3,1,House,,0,4,600m²,,,
+R 3 850 000,2,2.5,Apartment/Flat,R2240,1,2,,130m²,,1.0
+R 1 800 000,,,CommercialProperty,R265,0,,495m²,,,
+R 4 770 000,,,,,0,,,,,
+R 860 000,2,1.5,Townhouse,R700,0,1,,97m²,R1400,
+R 800 000,3,1,House,R400,0,2,200m²,60m²,,1.0
+R 2 950 000,3,3.5,House,,1,2,614m²,,,1.0
+R 499 000,1,1,Apartment/Flat,,0,,,59m²,,
+R 2 987 000,3,3,Apartment/Flat,R2700,1,2,,304m²,R6300,
+R 550 000,2,1,Townhouse,R342,0,,,,R795,
+R 500 000,3,2.5,Townhouse,R360,0,1,,125m²,,0.0
+R 780 000,3,1,House,,0,1,,,,
+R 8 455 000,,,IndustrialProperty,,0,,950m²,950m²,,
+R 880 000,3,2,House,R400,0,3,351m²,,,1.0
+R 3 200 000,4,3.5,House,R1800,1,4,864m²,420m²,R1,1.0
+R 690 000,3,2,Apartment/Flat,,0,,,,,
+R 620 000,1,1,Apartment/Flat,,1,1,,,R1873,0.0
+R 5 300 000,14,12,House,,0,7,909m²,,,
+R 7 700 000,4,3,House,R4275,0,3,2025m²,470m²,,1.0
+R 675 000,2,1,Apartment/Flat,R250,1,1,,51m²,R1300,1.0
+R 750 000,3,2,Townhouse,,0,2,,,,
+R 3 950 000,,,CommercialProperty,,0,,,,,
+R 2 370 500 - R 2 552 550,,,,,0,,,,,
+R 695 000,3,2,Townhouse,,1,1,,,,
+R 790 000,2,1,Apartment/Flat,R470,0,1,,84m²,R1322,1.0
+R 670 000,2,1,Apartment/Flat,,1,2,,96m²,R1380,
+R 1 150 000,4,2,House,R283,0,3,442m²,360m²,,1.0
+R 2 370 000,,,VacantLand/Plot,R619,0,,888m²,,,
+R 1 500 000,3,2,House,R1100,0,,432m²,247m²,,1.0
+R 3 250 000,3,2,House,,1,2,496m²,,,
+R 16 000 000,4,4.5,House,R7387,1,3,3980m²,800m²,,1.0
+R 1 599 000,2,1,Apartment/Flat,,0,2,,100m²,,0.0
+R 340 000,,1,Apartment/Flat,R900,0,1,2478m²,33m²,R1500,
+R 270 000,,1,Apartment/Flat,,0,,,,,
+R 460 000,2,1,Apartment/Flat,,0,1,,104m²,,
+R 899 000,3,2,House,,0,3,496m²,160m²,,1.0
+R 680 000,2,1,Townhouse,R650,0,1,,58m²,R823,
+R 595 000,2,1,Townhouse,R357,1,1,12456m²,65m²,R1064,0.0
+R 1 450 000,3,2,House,,0,,,,,
+R 619 000,5,3,House,,0,1,,,,
+R 2 500 000 - R 4 300 000,,,,,0,,,,,
+R 850 000,,,CommercialProperty,,0,,,,,
+R 500 000,1,1,Apartment/Flat,R745,1,2,44m²,44m²,,0.0
+R 495 000,2,1,Apartment/Flat,R400,1,2,53m²,53m²,,0.0
+R 735 000,1,1,Apartment/Flat,R450,0,1,59m²,59m²,R1800,0.0
+R 980 000,2,1,Apartment/Flat,R440,0,1,6088m²,80m²,R1353,1.0
+R 1 590 000,3,1,House,,0,,2730m²,,,
+R 9 199 000,3,3.5,Apartment/Flat,R5500,1,2,,225m²,R11000,
+R 760 000,2,1,Apartment/Flat,R500,0,2,118m²,118m²,R1200,0.0
+R 575 000,2,1,Apartment/Flat,R903,0,2,55m²,55m²,,0.0
+R 700 000,3,1,House,,0,4,415m²,,,
+R 480 000,2,1,Apartment/Flat,R177,0,,993m²,95m²,R1123,
+R 3 999 999,3,3,House,,1,6,,495m²,,1.0
+POA,,,House,,0,,,,,
+R 599 000,2,1,Apartment/Flat,,0,3,4452m²,86m²,,0.0
+R 520 000,3,1.5,Apartment/Flat,R328,0,2,497m²,116m²,R1502,0.0

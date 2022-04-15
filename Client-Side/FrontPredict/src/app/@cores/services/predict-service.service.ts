@@ -6,12 +6,12 @@ import { House } from '../models/house.model';
 })
 export class PredictServiceService {
 
-  apiUrl: string = "http://127.0.0.1:5000/";
+  apiUrl: string = "http://localhost:5000/";
 
   constructor(private http: HttpClient) { }
 
   predictHousePrice(house: House) {
-    return <Promise<House>>this.http.post<House>(`${this.apiUrl}`, { house }).toPromise();
+    return <Promise<string>>this.http.post(`${this.apiUrl}api/`, { house }, { responseType: 'text' }).toPromise();
   }
 
   getResultPrediction() {

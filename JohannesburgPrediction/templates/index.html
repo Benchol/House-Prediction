@@ -1,63 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Johannesburg House Price Prediction</title>
-</head>
-<body>  
-    <form action="{{ url_for('main') }}" method="POST">
-        <fieldset>
-            <legend>Inputs Values</legend>
-            Bedrooms: 
-            <input name="bedrooms" type="number" required>
-            <br>
-            <br>
-            Bathrooms: 
-            <input name="bathrooms" type="number" required>
-            <br>
-            <br>
-            Type Of Property: 
-            <input name="type_of_property" type="number" required>
-            <br>
-            <br>
-            Erf Size: 
-            <input name="erf_size" type="number" required>
-            <br>
-            <br>
-            Floor Size: 
-            <input name="floor_size" type="number" required>
-            <br>
-            <br>
-            Pool: 
-            <input name="pool" type="number" required>
-            <br>
-            <br>
-            Rates and Taxes: 
-            <input name="rates_and_taxes" type="number" required>
-            <br>
-            <br>
-            Parking Space: 
-            <input name="parking_space" type="number" required>
-            <br>
-            <br>
-            Pets Allowed: 
-            <input name="pets_allowed" type="number" required>
-            <br>
-            <br>
-            <input type="submit">
-        </fieldset>
-    </form>
-    <div class="result">
-        {% if result %}
-            {% for variable, value in original_input.items() %}
-                <b>{{variable}}</b>: {{ value }}
-            {% endfor %}
-            <br>
-            <br> House Price Prediciton:
-            <p>{{result}}</p>
-            {% endif %}
-    </div>
-</body>
+  <meta charset="utf-8">
+  <title>FrontPredict</title>
+  <base href="./">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" href="styles.css"></head>
+<body class="mat-typography">
+  <app-root></app-root>
+<script src="runtime.js" defer></script><script src="polyfills.js" defer></script><script src="vendor.js" defer></script><script src="main.js" defer></script></body>
 </html>

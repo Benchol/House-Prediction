@@ -1,0 +1,15 @@
+price,bedrooms,bathrooms,parking space,Type of Property,Erf Size,Levies,Rates and Taxes,Pets Allowed,Pool,Floor Size
+R 1 900 000,3,2,2,Townhouse,202m²,R2342,R950,1.0,1,
+R 755 000,2,1,1,Apartment/Flat,,R600,R500,0.0,0,51m²
+R 580 000,2,1.5,2,Apartment/Flat,,R850,R250,,0,88m²
+R 770 750,3,1,2,House,200m²,,R500,1.0,1,55m²
+R 1 250 000,2,2,2,Apartment/Flat,,R3740,R551,0.0,0,120m²
+R 1 700 000,2,2,2,Apartment/Flat,97m²,R2500,R1400,1.0,1,97m²
+R 625 000,2,1,1,Townhouse,,R2104,R195,,1,91m²
+R 1 295 000,4,2,6,House,565m²,,R382,1.0,0,130m²
+R 970 000,2,1,2,Townhouse,,R2180,R500,1.0,0,98m²
+R 450 000,1,1,,Apartment/Flat,,,,,0,47m²
+R 745 000,2,1,1,Apartment/Flat,,R1558,R450,0.0,1,68m²
+R 755 000,2,1,1,Apartment/Flat,51m²,R1300,R250,,0,51m²
+R 1 700 000,4,4,2,House,331m²,,R367,0.0,0,113m²
+R 1 700 000,2,2,2,House,331m²,,R367,0.0,0,113m²

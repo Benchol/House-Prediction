@@ -1,0 +1,588 @@
+price,bedrooms,bathrooms,parking space,Type of Property,Erf Size,Floor Size,Levies,Rates and Taxes,Pets Allowed,Pool
+R 665 000,2,1,1,Apartment/Flat,51m²,51m²,R1261,R150,0.0,0
+R 850 000,2,1,1,Apartment/Flat,69m²,69m²,R1035,R343,0.0,0
+R 689 000,2,1,1,House,200m²,50m²,R150,R150,1.0,0
+POA,,,,IndustrialProperty,4500m²,,,R9500,,0
+POA,,,,CommercialProperty,495m²,,,,,0
+R 1 800 000,4,3,15,House,,,,R1200,,0
+R 2 400 000,4,4,14,House,2024m²,340m²,,R1000,1.0,1
+R 500 000,2,1,,House,300m²,,,R500,1.0,0
+R 790 000,1,1,1,Apartment/Flat,,,,,,1
+R 665 000,2,1,1,House,,51m²,R1000,R750,0.0,0
+POA,,,,CommercialProperty,2252m²,2252m²,,R1,,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R1300,R300,0.0,0
+R 10 000 000,3,3.5,2,Apartment/Flat,,730m²,R10545,R3579,1.0,1
+R 5 399 000,4,3,4,House,1447m²,421m²,,R2147,1.0,1
+R 3 300 000,4,5,1,House,1205m²,385m²,,,1.0,1
+R 6 214 000,,,,CommercialProperty,,143m²,R5470,R7724,,0
+R 675 000,2,1,1,Apartment/Flat,,,R1000,R250,,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R1200,,1.0,0
+R 1 295 000,3,3,4,House,545m²,,,,1.0,0
+R 64 800 000,8,11,12,House,4196m²,2000m²,,,1.0,1
+R 1 345 000,3,2,1,House,300m²,83m²,R550,R450,1.0,0
+R 4 300 000 - R 4 600 000,,,,,,,,,,0
+R 3 000 000,3,2,2,Townhouse,,295m²,,R1937,,0
+R 5 000 000,4,3,8,House,508ha,200m²,,R5257,1.0,0
+R 679 999,1,1.5,1,Apartment/Flat,,,,,,0
+R 4 600 000,4,,,House,496m²,497m²,,R1000,,0
+R 900 000,3,2,1,Apartment/Flat,133m²,133m²,,,1.0,0
+R 1 799 000,3,2,1,House,1155m²,,,R600,1.0,1
+R 1 625 000,2,2,2,Townhouse,,82m²,,R750,1.0,0
+R 650 000,2,2,3,Townhouse,,102m²,R1198,R320,1.0,1
+R 580 000,2,1.5,2,Apartment/Flat,,88m²,R850,R250,,0
+R 665 000,2,1,1,House,51m²,51m²,R1200,R250,,0
+R 720 000,2,1,1,Townhouse,,,,,,0
+R 2 495 000,,,,Apartment/Flat,313m²,320m²,,,,0
+R 690 000,1,2,1,Apartment/Flat,,,,,0.0,0
+R 1 350 000,1,1.5,1,Apartment/Flat,,90m²,R2000,,,1
+R 1 250 000,3,1,2,House,713m²,,,,1.0,1
+R 2 300 000,4,3,4,House,384m²,1338m²,,R800,0.0,1
+R 1 250 000,3,1,2,House,495m²,,,R1800,1.0,1
+R 2 400 000,3,2,2,Townhouse,240m²,120m²,,,0.0,0
+R 900 000,3,2,2,Townhouse,,,R1500,R300,0.0,0
+R 950 000,4,1,2,House,,,,,0.0,0
+R 8 950 000,5,4,4,House,698m²,479m²,,R4400,1.0,1
+R 1 520 000 - R 1 755 000,,,,,,,,,,0
+R 1 389 000,3,2,2,House,250m²,,R850,R800,,0
+R 4 995 000,2,2,5,House,1239m²,1m²,,R3050,1.0,1
+R 4 850 000,3,3,3,House,1313m²,1m²,,R2800,1.0,0
+R 1 650 000,5,3,11,House,2023m²,500m²,,R990,1.0,1
+R 6 995 000,3,2,3,House,,460m²,,R3574,1.0,0
+R 6 488 900,2,2.5,2,Apartment/Flat,,82m²,R4013,,0.0,0
+R 675 000,2,1,2,Apartment/Flat,,51m²,R750,R500,0.0,0
+R 1 275 000,1,1,1,Apartment/Flat,,,R1360,R634,,0
+R 1 025 000,1,1,1,Apartment/Flat,,,R1040,R463,,0
+R 1 250 000,3,2,3,House,495m²,,,R911,1.0,1
+R 765 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 895 000,1,1,1,Apartment/Flat,,,R920,R374,,0
+R 4 090 000,3,3,3,Apartment/Flat,,,,,,0
+R 1 290 000,1,1,1,Apartment/Flat,,,,,,0
+R 1 390 000,3,2.5,2,Townhouse,5308m²,163m²,,R600,,1
+R 755 000,2,1,1,Apartment/Flat,,51m²,R1250,R250,,0
+R 675 000,2,1,1,Apartment/Flat,,51m²,R750,R200,1.0,0
+R 1 195 000,3,2,2,Townhouse,3806m²,95m²,R1930,R450,1.0,0
+R 2 700 000 - R 5 400 000,,,,,,,,,,0
+R 2 550 000,3,4,2,House,450m²,,R1100,R1200,,0
+R 1 399 000,2,1,1,Apartment/Flat,76m²,76m²,R3100,R800,0.0,1
+R 42 000 000,,,,IndustrialProperty,6672m²,3789m²,,,,0
+R 1 195 000,4,2,2,House,734m²,231m²,,R700,1.0,0
+R 1 499 000,4,3.5,1,Townhouse,5308m²,230m²,R2300,R922,,1
+R 675 000,2,1,1,Apartment/Flat,,51m²,R750,R150,,0
+R 839 000,2,1,1,Apartment/Flat,75m²,56m²,R750,R200,1.0,0
+R 1 999 000,4,3,5,House,992m²,990m²,,R1008,1.0,1
+R 2 195 000,3,2,1,Apartment/Flat,,124m²,R3652,,,1
+R 2 250 000,2,2,3,Apartment/Flat,,101m²,R2912,R1062,1.0,0
+R 4 950 000,2,2.5,2,Apartment/Flat,,141m²,R5541,R1500,0.0,1
+R 705 000,2,1,1,Townhouse,12456m²,64m²,R1081,R353,0.0,1
+R 2 195 000,3,2,2,House,2413m²,,,R1120,1.0,1
+R 665 000,2,1,1,House,51m²,51m²,,,0.0,0
+R 9 500 000,,,,IndustrialProperty,,1100m²,R9500000,,,0
+R 2 499 000,6,6,12,House,1663m²,1675m²,,R1460,1.0,1
+R 985 000,2,2,1,Apartment/Flat,,86m²,R1367,R785,1.0,1
+R 6 350 000,3,2.5,2,House,996m²,,,R2800,,1
+R 1 100 000,4,2,1,House,495m²,,,R585,1.0,0
+R 4 920 000,3,3,2,House,595m²,,R1682,R1507,1.0,1
+R 1 595 000,3,2.5,2,House,672m²,200m²,,R850,1.0,1
+R 1 005 000 - R 1 355 000,,,,,,,,,,0
+R 1 150 000,1,1,1,Apartment/Flat,,88m²,R1803,R394,0.0,0
+R 675 000,2,1,1,Apartment/Flat,51m²,51m²,R750,R180,,0
+R 1 495 000,2,,2,House,495m²,,,R541,1.0,1
+R 1 950 000,5,3,7,House,715m²,,,R1080,,0
+R 900 000,3,1,7,House,497m²,,,R535,1.0,0
+R 290 000,2.5,1,1,Apartment/Flat,,122m²,R1325,,0.0,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R660,R180,,0
+R 560 000,2,1,1,Townhouse,64m²,64m²,R1300,R326,0.0,0
+R 760 000,3,2,1,Townhouse,76m²,76m²,R1700,R440,0.0,0
+R 900 000,3,2,2,House,84m²,84m²,R1900,R440,0.0,0
+R 890 000,3,2,1,House,82m²,82m²,R2400,R440,0.0,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R600,R200,,0
+R 3 700 000,5,4,2,House,640m²,325m²,R1785,R1272,1.0,0
+R 665 000,2,1,1,Apartment/Flat,51m²,51m²,R1261,R150,0.0,0
+R 7 935 000,,,,CommercialProperty,5811m²,529m²,R7935000,,,0
+R 1 975 000,2,2,2,Apartment/Flat,152m²,152m²,R3004,R874,,0
+R 4 990 000,,,,,,,,,,0
+R 9 800 000,4,4.5,6,House,1193m²,500m²,,,1.0,1
+R 755 000,2,1,1,Apartment/Flat,56m²,56m²,R1335,R150,0.0,0
+R 7 590 000,,,,CommercialProperty,5811m²,506m²,R7590000,,,0
+R 4 095 000,,,,CommercialProperty,5811m²,315m²,R4095000,,,0
+R 2 300 000,3,2,4,House,990m²,990m²,,R724,1.0,1
+R 575 000,3,1,1,Apartment/Flat,,129m²,R1093,R182,,0
+R 720 000,2,1,,Apartment/Flat,1616m²,41m²,R1300,R300,0.0,0
+R 8 950 000,5,4,4,House,698m²,479m²,,R4476,,1
+R 665 000,2,1,1,Apartment/Flat,,51m²,R600,R200,,0
+R 663 000,,,,CommercialProperty,5811m²,51m²,R663000,,,0
+R 980 000,3,2,2,Townhouse,75m²,75m²,R2407,,0.0,0
+POA,,,,VacantLand/Plot,2952m²,,R1,R1,,0
+R 1 600 000,2,1,1,Apartment/Flat,4965m²,97m²,R3320,R800,,1
+R 499 000,2,1,1,Townhouse,,69m²,R1400,R280,0.0,0
+R 85 120 000,,,,CommercialProperty,2432m²,2432m²,R0,R0,,0
+R 1 350 000,1,1,,Apartment/Flat,,60m²,R1370,R450,0.0,0
+R 2 499 900 - R 3 099 900,,,,,,,,,,0
+R 2 299 000,2,2,2,Apartment/Flat,5121m²,208m²,R2450,R3150,1.0,1
+R 675 000,2,1,1,Apartment/Flat,,51m²,R1250,R250,,0
+R 765 000,2,1,1,Apartment/Flat,,56m²,R1250,R250,,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R600,R200,,0
+R 610 000,1,1,1,Apartment/Flat,,48m²,R1200,R400,,1
+R 2 795 000,3,2,2,Townhouse,,211m²,R3272,R1523,1.0,1
+R 2 488 000,4,4,4,House,1450m²,,,R1257,1.0,1
+R 4 455 000,2,2.5,2,Apartment/Flat,,113m²,R4520,R1575,0.0,1
+R 1 599 000,8,4,,Apartment/Flat,,496m²,R1,R273,0.0,0
+R 1 350 000,2,2.5,2,Apartment/Flat,146m²,146m²,R3040,R800,,0
+R 427 000,2,1,2,Apartment/Flat,,79m²,R1486,R259,0.0,0
+R 4 500 000,,,,IndustrialProperty,2685m²,1300m²,,,,0
+R 2 400 000,5,2,2,House,995m²,,,R1067,,1
+POA,,,,CommercialProperty,1487m²,374m²,,R11080,,0
+R 700 000,4,2,4,House,317m²,90m²,,R450,1.0,0
+R 2 750 000,4,2,2,House,1124m²,,,R1381,1.0,1
+R 3 450 000,3,2.5,4,House,1040m²,480m²,,R1017,1.0,1
+R 1 439 000 - R 1 458 000,,,,,,,,,,0
+R 1 389 313,3,2,2,House,,89m²,R900,R750,1.0,0
+R 435 000,2,1.5,1,Apartment/Flat,,100m²,R2102,R74,0.0,0
+R 689 000,2,1.5,2,Apartment/Flat,1011m²,90m²,R1390,R230,,0
+R 560 000,1,1,1,Apartment/Flat,499m²,39m²,R1700,,,0
+R 4 750 000,3,2,8,House,1980m²,400m²,,R3000,1.0,1
+R 1 150 000,2,1,1,Apartment/Flat,60m²,96m²,R538,R2273,0.0,1
+R 395 000,2,1,1,Apartment/Flat,8167m²,79m²,R1200,R300,0.0,1
+R 4 000 000,,,,IndustrialProperty,1500m²,910m²,,,,0
+R 800 000,2,1,2,Townhouse,,65m²,R1922,R500,,0
+POA,,,,IndustrialProperty,715m²,,,R3100,,0
+POA,2,1,5,House,350m²,88m²,,R450,1.0,0
+R 300 000,2,1,3,House,77210m²,38m²,R574,R200,1.0,0
+R 1 890 000,4,2,5,House,1170m²,,,R2500,,0
+R 4 800 000,,,,CommercialProperty,270m²,270m²,,,,0
+R 2 500 000,5,3,3,House,595m²,595m²,,R1148,1.0,1
+R 850 000,3,1.5,2,Townhouse,68m²,11881m²,R768,R480,,0
+R 850 000,,,,VacantLand/Plot,1024m²,1024m²,,,,0
+R 2 199 000,4,1.5,8,House,1134m²,,,R1300,1.0,1
+R 1 195 000,3,2,2,Townhouse,,97m²,R1352,R795,1.0,1
+R 2 475 000 - R 2 499 000,,,,,,,,,,0
+R 190 000,1,1,1,Apartment/Flat,,67m²,R1477,,0.0,0
+R 699 000,3,2,2,Townhouse,,82m²,R1715,R400,0.0,1
+R 975 000,1,1,1,Apartment/Flat,,58m²,R1890,R470,,1
+R 2 395 000,3,2,3,House,383m²,,,R1651,1.0,1
+R 730 000,1,1,1,Apartment/Flat,493m²,63m²,,,0.0,0
+R 250 000,2,1.5,1,Apartment/Flat,,103m²,R2788,,0.0,0
+R 850 000,2,1,,Townhouse,11161ha,86m²,R1149,R480,,0
+R 180,1,1,,Apartment/Flat,2882m²,35m²,,,0.0,0
+R 850 000,3,2,3,Townhouse,11029m²,67m²,R1700,R450,1.0,0
+R 45 000,,,,VacantLand/Plot,200m²,200m²,R500,,1.0,0
+POA,,,,CommercialProperty,1484m²,,,,,0
+R 799 000,3,3,2,House,471m²,471m²,,R450,1.0,0
+R 900 000,1,1,1,Apartment/Flat,,51m²,R2298,R363,0.0,1
+POA,2,1.5,2,Apartment/Flat,,95m²,R3140,R441,,0
+R 435 000,1,1,,Apartment/Flat,1000m²,29m²,R850,R300,,0
+R 1 900 000,3,2,2,House,991m²,225m²,,R745,1.0,1
+R 599 000 - R 750 000,,,,,,,,,,0
+R 1 999 000,2,2.5,,Apartment/Flat,,116m²,,,,0
+R 820 000,3,1,,House,991m²,,,R990,,0
+R 600 000,2,1,1,Townhouse,,63m²,R790,R545,,1
+R 5 704 000,,,,CommercialProperty,192m²,,,,,0
+R 1 800 000,3,2,6,House,720m²,,,R771,1.0,0
+R 1 400 000,,,,CommercialProperty,750m²,750m²,,R1200,,0
+R 1 195 000,3,2,2,Townhouse,,97m²,R1352,R551,0.0,1
+R 6 800 000,,,,IndustrialProperty,,1470m²,,,,0
+R 1 990 900,3,3,2,Apartment/Flat,2000m²,174m²,R3600,R1750,0.0,1
+R 950 000,2,1,3,House,550m²,,,R180,1.0,0
+R 750 000,3,2,1,Apartment/Flat,69m²,69m²,R2500,R300,0.0,0
+R 950 000,2,1,2,Townhouse,8000m²,70m²,R1650,R640,,1
+R 395 000,1,1,1,Apartment/Flat,,34m²,R1750,R839,0.0,0
+R 2 649 000,5,4,6,House,1041m²,,,R850,,1
+R 699 000,2,1,2,Townhouse,,96m²,R1200,R250,,0
+R 4 900 000,,,,,,,,,,0
+R 5 499 000,5,4,3,House,1167m²,,R2500,,1.0,1
+R 5 055 000,,,,CommercialProperty,5811m²,337m²,,,,0
+R 4 004 000,,,,CommercialProperty,5811m²,308m²,,,,0
+R 5 499 999,,,,IndustrialProperty,3000m²,800m²,,,,0
+R 3 790 000,3,3.5,6,House,1086m²,451m²,,R2467,,1
+R 1 710 000,,,,CommercialProperty,5811m²,114m²,,,,0
+R 6 000 000,,,,IndustrialProperty,3400m²,2800m²,,,,0
+R 520 000,1,1,2,Apartment/Flat,,78m²,R1300,R403,,0
+R 350 000,3,1,1,Apartment/Flat,,89m²,R2051,R1,,0
+R 1 600 000,2,1,1,Apartment/Flat,2535m²,96m²,R960,,,0
+R 850 000,3,2,2,House,250m²,70m²,,R500,1.0,0
+R 2 250 000,3,2,1,Apartment/Flat,2451m²,141m²,R4158,R1376,,0
+R 2 385 000,,,,CommercialProperty,5811m²,159m²,,,,0
+R 2 775 000,,,,CommercialProperty,5811m²,185m²,,,,0
+R 2 970 000,,,,CommercialProperty,5811m²,198m²,,,,0
+R 3 195 000,,,,CommercialProperty,5811m²,213m²,,,,0
+R 2 790 000,,,,CommercialProperty,5811m²,186m²,,,,0
+R 2 385 000,,,,CommercialProperty,5811m²,159m²,,,,0
+R 6 000 000,,,,IndustrialProperty,1400m²,1400m²,,,,0
+R 999 000,5,2,8,House,600m²,,,R490,,1
+R 8 499 900,,,,,,,,,,0
+R 580 000,2,1,1,Apartment/Flat,53m²,53m²,R1374,R267,0.0,0
+R 2 495 000,2,2,2,Townhouse,,185m²,R3035,R1500,1.0,0
+R 1 474 000,,,,CommercialProperty,5811m²,134m²,,,,0
+R 1 250 000,6,4,5,House,495m²,495m²,,R455,1.0,0
+R 4 000 000,,,,VacantLand/Plot,,,,,,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R600,R200,,0
+R 740 000,1,1,2,Apartment/Flat,,80m²,R2500,R750,0.0,0
+POA,4,3,3,House,1487m²,,,R764,,1
+R 2 300 000,3,2,2,House,990m²,,,R724,,0
+R 1 800 000,2,2,1,Apartment/Flat,,90m²,,,,1
+R 5 195 000,4,4.5,4,House,2065m²,499m²,,R2852,1.0,1
+R 2 300 000,3,2,6,House,990m²,,,R724,,0
+R 1 699 000,3,2.5,3,Apartment/Flat,,246m²,,R1280,,0
+R 6 950 000,5,4,5,House,1003m²,,,R3234,,1
+R 5 399 000,2,2.5,2,Apartment/Flat,,156m²,R5186,,,1
+R 570 000,,,,,,,,,,0
+R 1 850 000,2,2,1,Apartment/Flat,,115m²,R2950,R1500,,1
+R 680 000,1,1,,Apartment/Flat,,68m²,R2548,R1391,0.0,0
+R 35 000 000,,,,CommercialProperty,1998m²,1998m²,,,,0
+R 3 370 000,4,2.5,4,House,1380m²,350m²,R1,R1895,1.0,1
+R 290 000,1,1,1,Apartment/Flat,496m²,50m²,R674,,,0
+R 1 599 000,3,2,4,House,495m²,,,R720,0.0,1
+R 850 000,1,1,1,Apartment/Flat,,44m²,R2298,R363,0.0,1
+R 1 890 000,1,2,1,Apartment/Flat,3000m²,112m²,R4000,R2000,1.0,0
+R 3 200 000,8,6,,House,1509m²,,,R2935,,0
+R 650 000,2,2,1,Apartment/Flat,70m²,70m²,R991,R400,1.0,0
+R 930 000,2,2,1,Apartment/Flat,,70m²,,,,0
+R 2 368 000,1,1,1,Apartment/Flat,,55m²,R3234,R1420,1.0,1
+R 950 000,3,2,2,House,,496m²,,R800,1.0,1
+R 1 990 900,1,2,1,Apartment/Flat,2500m²,129m²,R3561,R3120,1.0,0
+R 6 406 110,,,,CommercialProperty,,560m²,,,,0
+R 4 500 000,,,,IndustrialProperty,1200m²,824m²,,,,0
+R 899 000,2,1,2,Apartment/Flat,,89m²,R4610,R450,,1
+POA,,,,IndustrialProperty,1539m²,1539m²,,R1,,0
+R 679 000,3,1.5,3,House,366m²,,,R343,,0
+R 839 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 4 320 000,,,,IndustrialProperty,3600m²,3600m²,,,,0
+R 8 317 400,,,,IndustrialProperty,6398m²,6300m²,,,,0
+R 675 000,1,1,1,Townhouse,12447m²,50m²,R780,R1921,0.0,1
+R 755 000,,,,Apartment/Flat,,51m²,R750,R500,0.0,0
+R 1 052 808,3,2,,House,300m²,93m²,,R400,,0
+R 755 000,2,1,1,Apartment/Flat,56m²,56m²,R750,R180,,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R1250,R250,,0
+R 3 250 000,3,3.5,2,House,480m²,,R1265,,,1
+R 599 999,1,1,1,Townhouse,,52m²,R1044,R330,0.0,0
+R 3 250 000,3,4,3,House,1490m²,450m²,,R1585,1.0,1
+R 545 000,3,1,1,House,350m²,69m²,,R594,1.0,0
+R 755 000,2,1,2,Apartment/Flat,,51m²,R750,R500,0.0,0
+R 3 300 000,,,,VacantLand/Plot,4047m²,,,,,0
+R 755 000,2,1,2,Apartment/Flat,,51m²,R750,R500,0.0,0
+R 1 175 000,2,1,1,Townhouse,4361m²,96m²,,R634,0.0,0
+R 629 000,,,,,,,,,,0
+R 1 700 000,2,1,2,Apartment/Flat,,136m²,R2400,R800,,0
+R 1 200 000,3,2,5,House,496m²,,,R500,1.0,0
+R 1 149 000,2,2,1,Apartment/Flat,1m²,1m²,R1610,R500,0.0,0
+R 1 295 000,3,1,2,House,495m²,,,R550,1.0,1
+R 1 350 000,3,2,2,Apartment/Flat,,82m²,,,0.0,1
+R 1 700 000,4,3,1,House,248m²,248m²,,R1562,0.0,0
+R 839 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 1 550 000,2,2,3,Townhouse,25583m²,97m²,R2594,R959,1.0,1
+R 519 995,0.5,1,1,Apartment/Flat,6354m²,32m²,R1100,R300,0.0,1
+R 2 499 000,4,2.5,2,House,698m²,,,R1736,1.0,0
+R 1 780 000,4,3,2,House,775m²,,,,1.0,1
+R 2 195 000,3,3.5,4,House,595m²,,,R750,,0
+R 665 000,2,1,2,Apartment/Flat,,51m²,R750,R200,,0
+R 1 250 000,1,1,1,Townhouse,22705m²,70m²,R2072,R747,1.0,1
+R 800 000,,,,VacantLand/Plot,1350m²,,,,,0
+R 880 000,1,1,,Apartment/Flat,,46m²,R2094,R638,,1
+R 695 000,1,1,,Apartment/Flat,,83m²,R2508,R359,0.0,0
+R 625 000,,,,Farm,,,,R600,,0
+R 849 000,2,1,,Townhouse,70m²,,R1350,R496,,0
+R 1 500 000,4,3,2,House,1189m²,,,R670,1.0,0
+R 755 000,2,1,2,Apartment/Flat,,51m²,R750,R500,0.0,0
+POA,,,,CommercialProperty,2970m²,2970m²,R1,R1,,0
+POA,,,,CommercialProperty,992m²,2207m²,,R9265,,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 665 000,3,2,1,Townhouse,22301m²,76m²,R1390,R159,,0
+R 1 895 000,2,2,2,Apartment/Flat,,155m²,R4400,R930,1.0,1
+R 7 500 000,,,,CommercialProperty,1395m²,,,,,0
+R 675 000,2,1,1,Apartment/Flat,51m²,51m²,R750,R180,,0
+R 599 000,1,1,1,Apartment/Flat,,52m²,R2083,R390,,1
+R 495 000,1,1,,Apartment/Flat,,60m²,R1687,R1235,0.0,0
+R 5 995 000,4,4,2,House,630m²,568m²,R1757,R2471,,1
+R 10 500 000,,,,CommercialProperty,12058m²,,,,,0
+R 2 300 000,3,2,3,House,990m²,990m²,,,,0
+R 765 000,2,1,1,Apartment/Flat,,56m²,R750,R1000,0.0,0
+R 675 000,2,1,1,Apartment/Flat,,51m²,R750,R1000,0.0,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R660,R180,,0
+R 1 575 000,,,,,,,,,,0
+R 3 900 000,3,2,2,House,,,,,1.0,0
+R 1 580 000,3,2.5,3,House,495m²,395m²,,R416,1.0,0
+R 699 000,2,1,1,Townhouse,96m²,1273m²,R100,R350,,0
+R 6 495 000,3,3,5,House,2023m²,,,R4088,1.0,1
+R 2 800 000,6,2.5,3,House,1207m²,550m²,,R1700,1.0,0
+R 849 000,3,2,3,House,467m²,300m²,,,,0
+R 839 000,2,1,1,Apartment/Flat,,56m²,R808,R200,,0
+R 3 850 000,3,2,6,House,340m²,280m²,R3890,R2250,1.0,1
+R 2 200 000,2,2,2,House,770m²,,,R700,,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R700,R200,,0
+R 1 095 000,3,2,2,House,450m²,,,R1800,1.0,0
+R 2 850 000,3,2,3,House,743m²,,,R1471,1.0,1
+R 460 000,2,1,1,Apartment/Flat,,,,R330,1.0,0
+R 755 000,2,1,1,Apartment/Flat,56m²,56m²,R824,R234,,0
+R 755 000,2,1,1,Apartment/Flat,,51m²,R1100,R150,1.0,0
+R 1 450 000,4,3,10,House,1440m²,,,,,1
+R 2 250 000,5,3,,House,,,R2500,R1200,,0
+R 665 000,2,1,,Apartment/Flat,,51m²,R1200,R165,,0
+R 665 000,2,1,2,Apartment/Flat,,51m²,R750,R500,0.0,0
+R 995 000,,,,House,485m²,,,,,0
+R 1 750 000,,,,CommercialProperty,495m²,350m²,,,,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 1 260 000,4,2,1,House,495m²,,,R496,1.0,0
+R 5 995 000,4,3,5,House,1487m²,,,R2467,1.0,1
+R 670 000,2,2,2,Townhouse,17315m²,69m²,R1200,R420,0.0,0
+R 750 000,3,2,5,House,77210m²,109m²,R1069,R385,1.0,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R824,R200,,0
+R 1 650 000,2,2,,Apartment/Flat,,135m²,R3596,R366,,0
+R 405 000,1,1,,Apartment/Flat,1000m²,26m²,R760,R200,,0
+R 839 000,2,1,1,Apartment/Flat,75m²,56m²,R750,R150,1.0,0
+R 755 000,2,1,1,Apartment/Flat,,51m²,R700,R200,,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R800,R300,,0
+R 4 550 000,4,3,4,House,957m²,310m²,,,1.0,1
+R 2 475 000,2,2,1,Apartment/Flat,,127m²,R3575,R1373,,1
+R 675 000,2,1,1,Apartment/Flat,,51m²,R750,R200,,0
+R 2 500 000 - R 4 300 000,,,,,,,,,,0
+R 1 699 000,3,2,4,House,,246m²,R2400,R1280,,0
+R 839 000,2,1,1,Apartment/Flat,,56m²,R1300,R300,,0
+R 999 000,4,3,5,House,458m²,,,,1.0,0
+R 665 000,2,1,2,Apartment/Flat,,51m²,R750,R200,,0
+R 4 950 000,3,2,3,House,1018m²,,,R2750,,1
+R 765 000,2,1,1,Apartment/Flat,,56m²,R700,R200,,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 839 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 1 700 000,2,2,2,Apartment/Flat,,97m²,R2616,R1400,1.0,1
+R 849 000,3,2,6,House,601m²,,,R432,,0
+R 950 000,4,1,2,House,476m²,,,R602,,0
+R 2 350 000,1,1,2,House,495m²,,,,,0
+R 4 295 000,8,8,5,House,833m²,,,R930,,1
+R 839 000,2,1,2,Apartment/Flat,,56m²,R824,R200,,0
+R 1 650 000,3,2,1,Townhouse,,126m²,R3129,R670,1.0,0
+R 615 000,1,1,1,Apartment/Flat,,50m²,R2000,R814,0.0,0
+R 700 000,2,1,2,Townhouse,,77m²,R1412,R137,0.0,1
+R 629 000,,,,,,,,,,0
+R 850 000,1,1,1,Apartment/Flat,,44m²,R2298,R363,0.0,1
+R 2 700 000,1,1,1,Apartment/Flat,113m²,52m²,R2300,R1900,0.0,1
+R 755 000,2,1,1,Apartment/Flat,,51m²,R700,R180,,0
+R 3 095 000,4,2.5,2,House,743m²,,,R1759,1.0,0
+R 675 000,2,1,2,Apartment/Flat,,51m²,R750,R200,,0
+R 8 000 000,,,,IndustrialProperty,4500m²,4500m²,,,,0
+R 650 000,1,1,,Apartment/Flat,,75m²,R2084,R330,0.0,0
+R 755 000,2,1,2,Apartment/Flat,,51m²,R750,R500,0.0,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 750 000,1,1,,Apartment/Flat,,68m²,R2999,R425,0.0,0
+R 6 500 000,4,2.5,7,House,1985m²,,,R3847,1.0,1
+R 755 000,2,1,1,Apartment/Flat,,51m²,R700,R180,,0
+R 4 500 000,,,,CommercialProperty,1012m²,,,,,0
+R 6 750 000,,,,IndustrialProperty,4142m²,2674m²,,,,0
+R 675 000,2,1,2,Apartment/Flat,,51m²,R824,R200,,0
+R 570 000,2,1,1,Townhouse,,64m²,R1460,R259,0.0,0
+R 765 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 18 000 000,5,5,3,House,2071m²,,,R3919,,0
+R 3 500 000,3,2,2,Apartment/Flat,,221m²,R7220,R2250,,1
+POA,,,,CommercialProperty,495m²,,,,,0
+R 40 000 000,,,,CommercialProperty,633m²,3000m²,,,,0
+R 1 250 000,4,2,2,House,682m²,,,R351,,0
+R 600 000,2,1,,Apartment/Flat,655m²,46m²,R1800,R800,,0
+R 3 000 000,4,4,4,Apartment/Flat,10000m²,201m²,R2450,R700,1.0,0
+R 795 000,1,1,1,Apartment/Flat,59m²,2073m²,R1670,R41639,,0
+R 799 000,5,2.5,1,House,390m²,,,R866,,0
+R 41 999 950,,,,IndustrialProperty,16945m²,8560m²,,,,0
+R 729 000,3,2,2,Townhouse,,69m²,,,0.0,0
+R 675 000,2,1,1,Apartment/Flat,,51m²,R1250,R250,,0
+POA,9,7,10,House,1260m²,720m²,,R450,1.0,0
+R 340 000,0.5,1,,Apartment/Flat,500m²,30m²,R2300,R900,0.0,0
+R 1 200 000,3,2,2,Townhouse,95m²,,R1800,,0.0,1
+R 2 299 000,3,2,2,House,2164m²,,,R850,1.0,1
+R 780 000,2,2,,Apartment/Flat,,,R1350,R450,,0
+R 520 000,1,1,2,Apartment/Flat,78m²,78m²,R1520,R550,,0
+R 839 000,2,1,1,Apartment/Flat,,56m²,R800,R300,,0
+R 849 000,2,1,1,Apartment/Flat,,102m²,R1828,,0.0,1
+R 755 000,2,1,2,Apartment/Flat,,51m²,R750,R200,,0
+R 380 000,2,1,1,Apartment/Flat,2354m²,102m²,R1500,,,0
+R 765 000,2,1,1,Apartment/Flat,,56m²,R1100,R150,0.0,0
+R 950 000,2,1,,Townhouse,,,R1650,R640,,1
+R 665 000,2,1,1,Apartment/Flat,,51m²,R1100,R150,0.0,0
+R 839 000,,,,Apartment/Flat,,56m²,R808,,,0
+R 1 200 000,2,1,2,House,496m²,,,R686,1.0,1
+R 229 000,1,1,1,Apartment/Flat,48m²,1240m²,R673,,,0
+R 4 950 000,3,2.5,4,Townhouse,485m²,250m²,R1200,R3725,0.0,0
+R 1 250 000,3,1,3,House,495m²,,,R960,1.0,0
+R 980 000,4,2,6,House,1050m²,,,R800,,0
+R 1 490 000,2,2,,House,,,,R567,,0
+R 3 400 000,2,2,2,Apartment/Flat,113m²,113m²,R3656,R2540,0.0,0
+R 1 750 000,2,3,,Apartment/Flat,,139m²,R3640,R369,,0
+R 300 000,1,1,,Apartment/Flat,,41m²,R1500,R300,,0
+R 899 000,3,1,2,House,450m²,150m²,,R700,1.0,0
+R 839 000,2,1,1,Apartment/Flat,,56m²,R800,R300,,0
+R 750 000,2,1,,Apartment/Flat,655m²,45m²,R2100,R624,0.0,1
+R 2 650 000,,,,CommercialProperty,1000m²,,,,,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 2 700 000,3,2,2,Townhouse,165m²,122m²,R3000,R1500,0.0,0
+R 699 000,2,1,2,House,200m²,50m²,,R500,1.0,0
+R 4 400 000,4,4,2,House,1905m²,,,R2500,,0
+R 4 200 000,4,2.5,2,House,504m²,286m²,R3890,R2794,1.0,1
+R 675 000,2,1,1,Apartment/Flat,51m²,51m²,R750,R180,,0
+R 495 000,1,1,,Apartment/Flat,,45m²,,,,1
+R 1 660 000,3,2,1,House,612m²,612m²,,R619,1.0,0
+R 675 000,2,1,2,Apartment/Flat,,51m²,R750,R500,0.0,0
+R 675 000,2,1,1,Apartment/Flat,51m²,51m²,R750,R180,,0
+R 3 500 000,3,5,9,House,2487ha,,,R1500,,0
+R 839 000,2,1,1,Apartment/Flat,,56m²,R1250,R250,,0
+R 1 250 000,3,2,2,Apartment/Flat,380m²,,,R500,,0
+POA,2,2,1,Apartment/Flat,,102m²,R2297,R180,,0
+R 3 995 000,5,3.5,3,House,1487m²,660m²,,R3800,1.0,1
+R 2 400 000,3,2.5,3,House,991m²,350m²,,R1270,1.0,1
+R 1 575 000,3,2,,Townhouse,,107m²,R1366,R871,,0
+R 1 249 000,4,2,2,House,693m²,,,R1828,1.0,1
+R 6 700 000,4,6,4,House,1781m²,,,R4555,,1
+R 799 000,5,1.5,2,Apartment/Flat,8167m²,257m²,R325,R1420,0.0,1
+R 5 499 000,5,3,2,House,741m²,515m²,R2800,R2400,,1
+R 755 000,2,1,2,Apartment/Flat,,51m²,R750,R500,0.0,0
+R 3 900 000,4,3,2,House,1011m²,230m²,,R2103,1.0,0
+R 839 000,2,1,1,Apartment/Flat,56m²,56m²,R750,R180,,0
+R 2 299 000,5,2,3,House,1000m²,,,R800,,0
+R 4 950 000,4,3,6,House,679m²,329m²,,R3056,1.0,1
+R 1 350 000,,,,IndustrialProperty,495m²,400m²,,,,0
+R 765 000,2,1,1,Apartment/Flat,,56m²,R1250,R250,,0
+R 1 680 000,2,2,1,Apartment/Flat,2770m²,97m²,R3086,R1318,0.0,1
+R 1 695 000,3,2,4,Townhouse,,313m²,R2774,R950,1.0,0
+R 1 295 000,5,2,2,House,600m²,,,,,1
+R 665 000,2,1,1,Apartment/Flat,,51m²,R600,R200,,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R600,R200,,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R600,R200,,0
+R 13 000 000,,,,IndustrialProperty,7175m²,7175m²,,,,0
+R 1 050 000,5,2,5,House,400m²,,,R500,,0
+R 2 250 000,2,2,,Apartment/Flat,,84m²,R2908,R1741,,0
+R 1 200 000,3,2,,Townhouse,10838m²,98m²,R1500,R550,,0
+R 5 890 000,4,3.5,2,House,1980m²,,,R2284,1.0,1
+R 1 100 000,2,1,1,Apartment/Flat,,84m²,,,,0
+R 1 350 000,1,1,1,Apartment/Flat,,105m²,R2285,R662,,0
+R 750 000,2,1,1,Apartment/Flat,,85m²,R1200,R450,,1
+R 839 000,2,1,1,Apartment/Flat,,56m²,R808,R200,,0
+R 728 000,3,2,2,Townhouse,,70m²,,R1200,0.0,0
+R 1 799 000,9,4,5,House,612m²,,,R1000,,0
+R 755 000,2,1,1,House,,51m²,R750,R350,0.0,0
+R 800 000,1,1,1,Apartment/Flat,,54m²,R1645,R960,1.0,1
+R 900 000,3,2,1,Townhouse,,,R1500,R300,0.0,0
+R 1 799 000,3,2,2,House,945m²,350m²,,,,0
+R 755 000,2,1,2,Apartment/Flat,,56m²,R750,R500,0.0,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R600,R200,,0
+R 1 750 000,12,8,,House,495m²,,,,0.0,0
+R 850 000,2,1,1,House,251m²,,,R616,1.0,0
+R 665 000,2,1,1,Apartment/Flat,51m²,51m²,R1200,R250,,0
+R 3 765 000,2,2,,Apartment/Flat,75.3m²,75m²,R2800,,,0
+R 2 300 000,3,2,3,House,990m²,,,R724,1.0,0
+R 985 000,3,2,1,House,377m²,,,,1.0,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R600,R200,,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R600,R200,,0
+R 1 300 000,3,2,8,House,712m²,,,R558,,0
+R 3 999 000,3,3,2,House,3718m²,,,,,1
+R 1 795 000,2,2,1,Apartment/Flat,,87m²,,R1259,,1
+R 1 650 000,,,,IndustrialProperty,222m²,,,,,0
+R 765 000,2,1,1,Apartment/Flat,,56m²,R1100,R150,0.0,0
+R 675 000,2,1,1,Apartment/Flat,,51m²,R1100,R150,0.0,0
+R 765 000,2,1,1,Apartment/Flat,56m²,56m²,R830,R234,,0
+R 665 000,2,1,1,House,,51m²,R750,R150,,0
+R 269 900,,1,1,Apartment/Flat,,24m²,R1279,,,0
+R 1 300 000,4,3,10,House,496m²,,,R950,1.0,0
+R 900 000,2,2,3,Townhouse,496m²,126m²,R1973,R288,,0
+R 2 399 000,5,3,4,House,1026m²,220m²,,R1375,1.0,1
+R 415 000,3,1.5,,Apartment/Flat,,144m²,R3354,,0.0,0
+R 1 690 000,2,1.5,2,House,1154m²,153m²,,,1.0,0
+R 6 500 000 - R 7 990 000,,,,,,,,,,0
+R 1 395 000,,,,CommercialProperty,1138m²,,,R1645,,0
+R 755 000,2,1,1,Townhouse,,51m²,R1200,R165,,0
+R 2 850 000,3,2,2,House,496m²,,,R1175,1.0,1
+R 840 000,,,,IndustrialProperty,147m²,,,,,0
+R 420 000,1,1,1,Apartment/Flat,1016m²,45m²,R1400,R200,0.0,0
+R 2 649 000,2,2,2,Apartment/Flat,,196m²,R5100,R1645,1.0,1
+R 600 000,2,2,,Apartment/Flat,,68m²,R1156,R300,0.0,1
+R 850 000,2,1.5,2,Townhouse,,57m²,R1735,R617,0.0,1
+R 665 000,2,1,1,Apartment/Flat,,51m²,R600,R200,,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R600,R200,,0
+R 10 000 000,,,,CommercialProperty,5300m²,,,,,0
+R 1 690 000,4,1,1,House,495m²,,,,,0
+R 665 000,2,1,1,Apartment/Flat,51m²,51m²,R800,R300,0.0,0
+R 400 000,2.5,1,,Apartment/Flat,,113m²,R1505,,0.0,0
+R 520 000,3,1,2,Townhouse,,,,R300,0.0,0
+R 3 850 000,3,3,5,House,787m²,354m²,,R2912,1.0,1
+R 3 999 000 - R 4 249 000,,,,,,,,,,0
+R 1 100 000,4,1,9,House,511m²,190m²,,R450,1.0,0
+R 1 475 000,3,2,2,Apartment/Flat,,103m²,R2300,R720,1.0,1
+R 2 999 000,7,4,,House,1487m²,,,,1.0,1
+R 525 000,2,1,1,Apartment/Flat,12456m²,65m²,,R1500,1.0,1
+R 1 195 000,3,2,1,Apartment/Flat,,,R1352,R551,,0
+R 98 000 000,,,,CommercialProperty,4500m²,,,,,0
+R 1 950 000,2,2,2,Apartment/Flat,,78m²,,,0.0,0
+R 765 000,2,1,1,Apartment/Flat,,56m²,R1300,R150,,0
+R 990 000,3,2,1,Townhouse,2394m²,113m²,R2300,R350,,0
+R 998 000,2,2,2,Apartment/Flat,36749m²,84m²,R1548,R500,0.0,1
+R 836 770,2,1,,House,150m²,50m²,,R300,1.0,0
+R 600 000,2,1,1,Townhouse,35848m²,74m²,,R550,0.0,1
+R 1 399 000,4,2,7,House,727m²,260m²,,,1.0,0
+R 3 500 000,3,2,3,House,,,,R2117,1.0,0
+R 665 000,3,2,2,Townhouse,22301m²,76m²,R1000,R392,,0
+R 975 000,1,1,1,Apartment/Flat,,58m²,R2859,R480,0.0,1
+R 2 299 000 - R 2 552 550,,,,,,,,,,0
+R 635 000,1,1,1,Apartment/Flat,,,R1600,R360,,1
+R 755 000,2,1,1,Apartment/Flat,,755000m²,R600,R200,,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R600,R200,,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R600,R200,,0
+R 784 250,3,2,,House,200m²,70m²,,R300,1.0,0
+R 1 100 000,4,1,3,House,495m²,,,R500,1.0,0
+R 1 700 000,3,1,2,House,1388m²,,,R395,,0
+R 3 200 000,,,,IndustrialProperty,,2416m²,,,,0
+R 755 000,2,1,2,Apartment/Flat,,51m²,,,,0
+R 1 399 999,2,2.5,4,Townhouse,132m²,132m²,R2200,R1201,1.0,0
+R 1 057 000,1,1.5,1,Apartment/Flat,104m²,104m²,R2200,R930,1.0,0
+R 2 350 000,4,2,2,Apartment/Flat,,173m²,R2450,R993,1.0,0
+R 720 000,2,1,2,Apartment/Flat,15635m²,61m²,R1354,R357,,0
+R 950 000,1,1,1,Apartment/Flat,,,R1600,,0.0,0
+R 765 000,2,2,1,Townhouse,4036m²,85m²,R2100,R223,0.0,1
+R 530 000,2,1,1,Townhouse,,61m²,R900,R250,0.0,1
+R 1 700 000,2,2,2,Apartment/Flat,,114m²,R3672,R1394,,1
+R 1 175 000,2,2,2,Townhouse,,100m²,R1985,R700,0.0,0
+R 2 499 000,3,2,4,House,1923m²,,,,,1
+R 1 949 000,6,4,,House,991m²,380m²,,R700,,0
+R 1 125 348,3,3,1,House,300m²,104m²,,R300,1.0,0
+R 920 000,3,2,5,House,595m²,,,R500,0.0,0
+R 3 990 000,4,2.5,2,House,,,,,,1
+R 711 500,2,1,,House,200m²,50m²,,R500,1.0,0
+R 665 000,2,1,1,Apartment/Flat,,51m²,R660,R180,,0
+R 950 000,2,1,1,Apartment/Flat,,,R1650,R640,,0
+R 1 190 000,1,1,1,Apartment/Flat,,74m²,R2977,R845,,1
+R 42 000 000,,,,IndustrialProperty,6800m²,6800m²,R1,R1,,0
+POA,,,,CommercialProperty,,447m²,,,,0
+POA,,,,CommercialProperty,,4696m²,,,,0
+R 4 500 000,,,,CommercialProperty,546m²,550m²,,R9000,,0
+R 530 000,2,1,,Townhouse,35055ha,58m²,R1700,,,0
+R 850 000,3,1,,House,983m²,,,,,0
+R 675 000,2,1,1,Apartment/Flat,,51m²,R1100,R150,0.0,0
+R 784 300,3,2,1,House,180m²,70m²,,R300,1.0,0
+R 1 300 000,3,2,4,House,495m²,250m²,,R706,1.0,1
+R 2 950 000,6,5,5,House,496m²,800m²,,R800,0.0,0
+R 775 000,1,1,1,Apartment/Flat,59m²,59m²,,R1746,0.0,1
+R 500 000,0.5,1,,Apartment/Flat,725m²,39m²,R1050,R300,0.0,0
+R 300 000,1,1,,Apartment/Flat,,77m²,R750,,0.0,0
+R 755 000,2,1,2,Apartment/Flat,,51m²,,,,0
+R 665 000,,,,Apartment/Flat,,51m²,R600,,,0
+R 755 000,2,1,1,Apartment/Flat,,56m²,R600,R200,,0
+R 2 500 000,3,2,2,House,1215m²,370m²,,R2077,,0
+R 1 399 000,2,2,1,Apartment/Flat,,82m²,R3000,R950,0.0,0
+R 890 000,1,1,1,Apartment/Flat,,76m²,,,0.0,1
+R 4 990 000,4,4,4,House,496m²,588m²,,R1808,,1
+R 1 820 000,2,2,1,Apartment/Flat,,123m²,R3084,,,1
+R 4 250 000,5,3,3,House,495m²,,,R1753,1.0,0
+R 600 000,2,1,2,Townhouse,,58m²,R1546,R400,0.0,0
+R 3 500 000,,,,CommercialProperty,,,,,,0
+R 799 000,2,2,2,Townhouse,32354m²,96m²,R2125,R476,1.0,1
+R 1 270 000,2,2,1,Apartment/Flat,10390m²,101m²,R2100,R700,,1
+R 1 350 000,1,1,1,Apartment/Flat,,78m²,,,0.0,0
+R 200 000,1,1,1,Apartment/Flat,,83m²,R768,R287,1.0,0
+R 900 000,3,2,1,House,400m²,400m²,,R541,,0
+R 2 399 000,,,,VacantLand/Plot,900m²,,,,,0
+R 970 000,3,2,1,House,307m²,,,,1.0,0
+R 699 000,2,1,1,Townhouse,1273m²,96m²,R1200,R250,,0
+R 675 000,2,1,1,Apartment/Flat,,51m²,R1200,R300,0.0,0
+R 720 000,2,1,2,Apartment/Flat,,67m²,,,,0
+R 1 490 000,3,2,1,House,396m²,,,R736,1.0,1
+R 755 000,2,1,1,Apartment/Flat,,56m²,R1250,R250,,0
+R 3 499 000,2,2,2,Apartment/Flat,3048m²,225m²,,R1812,0.0,0
+R 1 150 000,2,1.5,1,Apartment/Flat,,71m²,R2650,R771,,0
+R 2 700 000,3,2,2,House,1623m²,1617m²,,R1865,1.0,0
+R 600 000,1,1,,Apartment/Flat,,38m²,,R380,,0
