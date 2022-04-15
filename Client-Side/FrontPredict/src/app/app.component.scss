@@ -1,0 +1,150 @@
+.content {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.container-form {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formGroup {
+    margin: 55px;
+    color: black;
+}
+
+.container-content {
+    width: 90%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 0 10px 1px #e1d8d8;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
+
+.img {
+    width: 500px;
+    height: 100%;
+    padding: 5px;
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+}
+
+* {
+    color: black;
+}
+
+.selectForm {
+    // padding-bottom: 10px;
+}
+
+::ng-deep {
+    .mat-select-min-line {
+        color: rgb(38, 72, 116);
+    }
+}
+
+.none {
+    margin: 92px 0;
+    width: 10px;
+    height: 10px;
+}
+
+.btn-predict {
+    width: 100px;
+    height: 50px;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // background-color: #2de32d;
+    background-color: #009944;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.container-result {
+    position: absolute;
+    z-index: 6;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    transition: opacity 0.8s ease-in-out;
+    justify-content: center;
+    background-color: #000000ba;
+    .container {
+        width: 35%;
+        height: 25%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        background-color: #d0e3eff2;
+        border-radius: 20px;
+        .back {
+            padding: 20px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            cursor: pointer;
+        }
+        .content {
+            width: 80%;
+            height: 80%;
+            font-size: 30px;
+            font-family: auto;
+            line-height: 3px;
+            // background-color: #efef;
+            span {
+                width: 80%;
+                height: 85%;
+                padding-bottom: 20px;
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+    }
+}
+
+form {
+    position: absolute;
+    z-index: 5;
+}
+
+.display {
+    top: 0;
+}
+
+.d-none {
+    top: 900px;
+}
+
+.op0 {
+    opacity: 0 !important;
+}
+
+.op1 {
+    opacity: 1 !important;
+}
